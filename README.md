@@ -1,2 +1,1 @@
-# Blog_Node
-Node Blog programador
+# Blog_backend
